@@ -41,7 +41,7 @@ OperatingSystems()
 
 Projects()
 {
-Various Softmodding/Side-Loading:
+- Various Softmodding/Side-Loading:
   ~ Nintendo Wii/Wii U
   ~ Nintendo DS/DSi
   ~ iPod 5th Gen
@@ -51,14 +51,14 @@ Various Softmodding/Side-Loading:
   ~ Google Pixel 3
   ~ Google Pixel 4 XL
   
-Hosted Network of Minecraft Servers: 
+- Hosted Network of Minecraft Servers: 
   ~ Installed, configured, and tested lots of java plugins
   ~ Created a professional looking website with a working donation page
   ~ Raised $375 from donations (at age 15)
   ~ Started off local, then started renting server space
   ~ Various other game's servers aswell
   
-Building/Repairing Electronics:
+- Building/Repairing Electronics:
   ~ Built 7 PCs, some with complex water cooling and RGB connections.
   ~ Custom Built Open-Source Keyboard (Custom Firmware rewritten from source code has custom binds, layout, and RGB lighting.)
   ~ Experience with Soldering and Desoldering Keyswitches, repairing PCB's traces
@@ -66,11 +66,11 @@ Building/Repairing Electronics:
   ~ Battery replacement: Galaxy S7 Active, Galaxy S8, Pixel 3 XL
   ~ Charging port replacement: Galaxy S7 Active
 
-Android Open-Source Project (AOSP) work:
+- Android Open-Source Project (AOSP) work:
   ~ Learned how to build custom rom from repo using Ubuntu
   ~ Did very minor edits to source code, then built operating system to Pixel 3
 
-Cybersecurity:
+- Cybersecurity:
   ~ TestOut Certified Network Pro (Equivelant to CompTIA Network+)
   ~ Custom Firewalls w/ Simplewall on W10, and NetGuard on Android 11.0
   ~ Familiar with Packet Analysis, Browser Fingerprinting/Tracking/Cookies, Networking Protocols
@@ -79,10 +79,10 @@ Cybersecurity:
   ~ Use of 2FA where applicable
   ~ Importance of Open-Source code
 
-Misc:
+- Misc:
   ~ Overclocking CPUs, GPUs, RAM
 
-In-Progress:
+- In-Progress:
   ~ Making Mario Kart Wii Custom Courses with SketchUp 3D
   
 }
